@@ -1,6 +1,11 @@
-"# YouTube_crawler" 
+# Тестовое
+
+Добрый день! Как бы я не пытался улучшить быстродействие проекта - без youtubeAPI сделать этого не получается, но там гугл устанавливает лимиты на количество обращений и это делает программу бессмысленной. Примерно на второй трети проекта подключил ИИ.
 
 
 
-установить зависимости pip install -r requirements.txt
-chromedriver необходимо скачать из https://sites.google.com/chromium.org/driver/downloads и положить в папку с проектом
+`установить зависимости` pip install -r requirements.txt
+
+`узнать свою версию хрома -` Находясь в браузере Google Chrome введите в поисковой строке: chrome://system/
+
+`chromedriver необходимо скачать из` https://googlechromelabs.github.io/chrome-for-testing/ `и положить в папку с проектом`
